@@ -1,6 +1,12 @@
 # Project-OOP-Kelompok-3
 ![Desktop - 4](https://user-images.githubusercontent.com/97217396/212530550-d9b4a6f5-2b56-463f-a9cd-c64e762c734c.png)
-## TicTacToe Game
+## Platform and environment details
+The system is built on the Java platform. The required technologies and software are following
+- My SQL 8
+- Java Builds Tools : Apache Maven
+- JDK 11
+
+## Tic Tac Toe Game
 Tic tac toe adalah permainan papan yang Dimainkan oleh 2 pemain, dengan menggunakan papan berpetak 3 x 3. 
 Salah satu pemain ditandai dengan simbol "x" dan yang lain ditandai dengan simbol "o". Pemain awal menandai dengan x dan pemain berikutnya dengan o, seterusnya bergantian. Tantangan permainan adalah membuat deretan xxx atau ooo, secara horisontal, vertikal, atau diagonal. Pemenangnya adalah yang berhasil terlebih dahulu membuat deretan xxx atau ooo.
 
