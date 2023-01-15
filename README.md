@@ -7,7 +7,7 @@ The system is built on the Java platform. The required technologies and software
 - JDK 11
 
 ## Tic Tac Toe Game
-Tic tac toe adalah permainan papan yang Dimainkan oleh 2 pemain, dengan menggunakan papan berpetak 3 x 3. 
+Tic tac toe adalah permainan papan yang dimainkan oleh 2 pemain, dengan menggunakan papan berpetak 3 x 3. 
 Salah satu pemain ditandai dengan simbol "x" dan yang lain ditandai dengan simbol "o". Pemain awal menandai dengan x dan pemain berikutnya dengan o, seterusnya bergantian. Tantangan permainan adalah membuat deretan xxx atau ooo, secara horisontal, vertikal, atau diagonal. Pemenangnya adalah yang berhasil terlebih dahulu membuat deretan xxx atau ooo.
 
 ## Why we choose TicTacToe?
