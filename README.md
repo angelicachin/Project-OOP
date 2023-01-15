@@ -18,9 +18,9 @@ Aplikasi game TicTacToe ini dibuat dengan menggunakan bahasa pemograman java men
 Pada aplikasi ini, pemain diminta untuk membuat sebuah akun terlebih dahulu. Lalu pemain dapat memilih mode 1 player, yaitu mode satu pemain melawan komputer. Serta 2 players, yaitu mode 1 pemain vs 1 pemain yang dilakukan secara bergantian.
 
 ## How to run the project?
-Requirements: <br>
+### Requirements: <br>
 - Apache Netbeans sudah diinstall <br>
-How to play TicTacToe: <br>
+### How to play TicTacToe: <br>
 - Import file zip TicTacToe2 <br>
 - Jalankan file pada aplikasi netbeans <br>
 - Klik register untuk mendaftarkan akun <br>
