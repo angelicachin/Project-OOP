@@ -26,6 +26,7 @@ Pada aplikasi ini, pemain diminta untuk membuat sebuah akun terlebih dahulu. Lal
 ## How to run the project?
 ### Requirements: <br>
 - Aplikasi apache netbeans sudah diinstall <br>
+- Java runtime sudah diinstall
 ### How to play TicTacToe: <br>
 - Import file zip TicTacToe2 <br>
 - Jalankan file pada aplikasi netbeans <br>
